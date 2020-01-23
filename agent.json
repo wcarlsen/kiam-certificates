@@ -1,0 +1,16 @@
+{
+    "CN": "Kiam Agent",
+    "key": {
+        "algo": "rsa",
+        "size": 4096
+    },
+    "names": [
+        {
+            "C":  "$COUNTRY",
+            "L":  "$CITY",
+            "O":  "$ORGANISATION",
+            "OU": "$DEPARTMENT",
+            "ST": "$STATE"
+        }
+    ]
+}
